@@ -149,7 +149,7 @@ python main.py
 
 <div align="center">
 
-## ⚡ 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐃𝐑𝐀𝐆𝐎𝐍 ⚡
+## ⚡ 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐍𝐀𝐌𝐀𝐍 ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=THANKS+FOR+VISITING+THE+REPOSITORY+💙;STAR+THE+PROJECT+IF+YOU+LIKE+IT+⭐;TEMP+MAIL+BY+DRAGON+🚀" />
 
